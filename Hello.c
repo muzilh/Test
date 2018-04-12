@@ -10,9 +10,5 @@ int main(int argc, char const *argv[])
 	double sum;
 	sum=a+b;
 	cout<<sum<<endl;
-
-	cout<<"**********************"<<endl;
-	cout<<"*This is just a test!*"<<endl;
-	cout<<"**********************"<<endl;
 	return 0;
 }
