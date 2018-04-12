@@ -12,7 +12,9 @@ int main(int argc, char const *argv[])
 	cout<<sum<<endl;
 
 	cout<<"Try to use roll back"<<endl;
-	
+
+	cout<<"Test is going on!"<<endl;
+
 	return 0;
 
 }
